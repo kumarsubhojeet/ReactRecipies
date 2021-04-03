@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SKRecipe/static/css/main.81ec8e99.chunk.css",
+    "main.js": "/SKRecipe/static/js/main.3f4dcc1a.chunk.js",
+    "main.js.map": "/SKRecipe/static/js/main.3f4dcc1a.chunk.js.map",
+    "runtime-main.js": "/SKRecipe/static/js/runtime-main.2479cac4.js",
+    "runtime-main.js.map": "/SKRecipe/static/js/runtime-main.2479cac4.js.map",
+    "static/js/2.fe278767.chunk.js": "/SKRecipe/static/js/2.fe278767.chunk.js",
+    "static/js/2.fe278767.chunk.js.map": "/SKRecipe/static/js/2.fe278767.chunk.js.map",
+    "index.html": "/SKRecipe/index.html",
+    "static/css/main.81ec8e99.chunk.css.map": "/SKRecipe/static/css/main.81ec8e99.chunk.css.map",
+    "static/js/2.fe278767.chunk.js.LICENSE.txt": "/SKRecipe/static/js/2.fe278767.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2479cac4.js",
+    "static/js/2.fe278767.chunk.js",
+    "static/css/main.81ec8e99.chunk.css",
+    "static/js/main.3f4dcc1a.chunk.js"
+  ]
+}
