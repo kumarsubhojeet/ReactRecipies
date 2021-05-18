@@ -49,3 +49,28 @@
     color: black;
     font-family: 'Averia Serif Libre', cursive;
   }
+  .input_btn2{
+    margin: 4px 20px;
+    border: 2px solid transparent;
+    display: none;
+  }
+
+  @media screen and (max-width: 780px) {
+    .input_btn2{
+      margin: 4px 20px;
+      border: 2px solid transparent;
+      display: block;
+    }
+    .btn{
+      margin: auto;
+      border: 2px solid transparent;
+      margin-top: -60px;
+    }
+    .input_btn{
+      display: none;
+    }
+    .form{
+      width: 100%;
+      
+    }
+  }

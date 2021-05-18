@@ -8,19 +8,24 @@ const Header = (props)=>{
   <div className="container">
     <h1 className="display-4"><span class="material-icons brand-icon">fastfood</span>Food Recipies</h1>
     
-    <div class="input-group w-50 mx-auto">
-  <input type="text" class="form-control"
+    <div class="input-group w-60 mx-auto col-sm-6 ">
+  <input type="text" class="form-control form"
    placeholder="Search Your favorite Recipe 🍎" 
    value={props.search} 
    onChange={props.onInputChange}
   
   />
-  <div class="input-group-append">
+  <div class="input-group-append input_btn">
   <button className="btn btn-dark" onClick={props.onSearchClick}>
             Search Recipe
           </button>
   </div>
 </div>
+<div class="input-group-append input_btn2">
+  <button className="btn btn-dark btn" onClick={props.onSearchClick}>
+            Search Recipe
+          </button>
+  </div>
   </div>
 </div>
         </> 
